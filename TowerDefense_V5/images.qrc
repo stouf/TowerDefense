@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>but.png</file>
+        <file>cafard1.png</file>
+        <file>cafard2.png</file>
+        <file>cafard3.png</file>
+        <file>chemin_E.jpg</file>
+        <file>chemin_N.jpg</file>
+        <file>chemin_NE.jpg</file>
+        <file>chemin_NW.jpg</file>
+        <file>chemin_S.jpg</file>
+        <file>chemin_SE.jpg</file>
+        <file>chemin_SW.jpg</file>
+        <file>chemin_W.jpg</file>
+        <file>fourmi1.png</file>
+        <file>fourmi2.png</file>
+        <file>fourmi3.png</file>
+        <file>guepe1.png</file>
+        <file>guepe2.png</file>
+        <file>herbe.jpg</file>
+        <file>moustiquevolant1.png</file>
+        <file>moustiquevolant2.png</file>
+    </qresource>
+</RCC>
